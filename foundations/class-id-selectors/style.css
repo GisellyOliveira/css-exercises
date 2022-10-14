@@ -1,0 +1,19 @@
+.oddElement {
+    background-color: rgba(233, 155, 129, 0.7);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#oneId {
+    color: rgba(21, 70, 172, 0.7);
+    font-size: 36px;
+}
+
+.oddElement.collerClass {
+    font-size: 24px;
+}
+
+#anotherId {
+    background-color: rgba(113, 203, 120, 0.5);
+    font-size: 24px;
+    font-weight: bold;
+}
